@@ -200,6 +200,6 @@ README.html
 .idea
 .exercism
 
-.mvnw
-.mvnw.cmd
-.HELP.md
+mvnw
+mvnw.cmd
+HELP.md
